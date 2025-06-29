@@ -1,0 +1,20 @@
+{
+  "用户UID": {
+    "uid": "用户UID",
+    "username": "用户名",
+    "display_name": "显示名称",
+    "cookies": {
+      "SESSDATA": "你的SESSDATA值",
+      "bili_jct": "你的bili_jct值",
+      "DedeUserID": "你的DedeUserID值",
+      "DedeUserID__ckMd5": "你的DedeUserID__ckMd5值",
+      "sid": "你的sid值",
+      "sec_ck": "你的sec_ck值"
+    },
+    "user_info": {
+      "说明": "这里会存储用户的详细信息，由程序自动获取和更新"
+    },
+    "login_time": "登录时间戳",
+    "last_verify": "最后验证时间戳"
+  }
+} 
