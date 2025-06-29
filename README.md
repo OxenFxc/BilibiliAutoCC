@@ -40,13 +40,13 @@ pip install -r requirements.txt
 
 ### 配置设置
 
-1. **复制配置文件**:
+1. **复制配置文件**:(可选步骤)
    ```bash
    cp config.example.json config.json
    cp bilibili_accounts.example.json bilibili_accounts.json
    ```
 
-2. **修改配置文件**: 根据需要调整 `config.json` 中的设置
+2. **修改配置文件**: 根据需要调整 `config.json` 中的设置（可选）
 
 3. **运行程序**:
    ```bash
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ## ⚙️ 配置说明
 
-### config.json 配置项
+### config.json 配置项(可选，程序会自动生成)
 
 ```json
 {
